@@ -1,6 +1,6 @@
 # Layout "Shelter"
 
-Link to Main Page: [https://nata-kostina.github.io/shelter/pages/main/](https://nata-kostina.github.io/shelter/pages/main/ "Main Page")
+Link to Main Page: [https://nata-kostina.github.io/layout-shelter/pages/main/](https://nata-kostina.github.io/layout-shelter/pages/main/ "Main Page")
 ***
 ## Description
 
